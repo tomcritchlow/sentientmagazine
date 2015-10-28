@@ -1,0 +1,27 @@
+html { 
+  background: url(/images/blue.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+  font-family:'titillium web';
+  font-size:14px;
+  line-height:16px;
+}
+
+.homepage{
+  width:700px;
+  margin:auto;
+  margin-top:200px;
+}
+
+.homepage h1{
+  color:white;
+}
+
+.homepage h2{
+  color:white;
+}
