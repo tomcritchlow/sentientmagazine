@@ -1,5 +1,5 @@
 ---
-time: 1446041955
+time: 1446042303
 inventory:
   "/sentient-scifi-the-culture-of-the-future/index.html":
     md5: a4915109aaa5aabf1b696f54db7ccbe8
@@ -22,15 +22,18 @@ inventory:
   "/about/index.html":
     md5: a4915109aaa5aabf1b696f54db7ccbe8
     time: 1446041951
+  "/authors/index.html":
+    md5: a4915109aaa5aabf1b696f54db7ccbe8
+    time: 1446042302
   "/CNAME":
     md5: 0c61cc78c2897449d30f8ff0b4262d49
     time: 1446041951
   "/sitemap.xml":
-    md5: ac75f3165c683df8f1af9a8c83f35dfa
-    time: 1446041951
+    md5: 9e1638d6bfc8c5150462b9884777eca9
+    time: 1446042302
   "/feed.xml":
-    md5: 9eac4c124cd0e486c0c0845394bafac3
-    time: 1446041951
+    md5: 3bacab030afd600730cbf1b320509da8
+    time: 1446042302
   "/css/all.css":
     md5: 34473d55822e5149aa7079ac63ab1f2a
     time: 1446041951
