@@ -1,30 +1,30 @@
 ---
-time: 1446042303
+time: 1447195319
 inventory:
   "/sentient-scifi-the-culture-of-the-future/index.html":
-    md5: a4915109aaa5aabf1b696f54db7ccbe8
-    time: 1446041951
+    md5: fabcc837ec6965116a30a0f549c1798e
+    time: 1447195316
   "/index.html":
-    md5: a4915109aaa5aabf1b696f54db7ccbe8
-    time: 1446041951
+    md5: fabcc837ec6965116a30a0f549c1798e
+    time: 1447195316
   "/books/index.html":
-    md5: 4fd90863dc9d91446f31d913d786a984
-    time: 1446041951
+    md5: ee4fe4043b59d3176e108451f43d19e0
+    time: 1447195316
   "/books/the-player-of-games/index.html":
-    md5: 250706af657765b793e36b05c4f16fe3
-    time: 1446041951
+    md5: d86e5dfcbedc0925abac4e5d6b4086a2
+    time: 1447195316
   "/books/archive/index.html":
-    md5: 8791762e8ba732bdfc2b5de9965ae4ac
-    time: 1446041951
+    md5: 4172008b92b23a307c8ef44e53979505
+    time: 1447195316
   "/books/tags/index.html":
-    md5: 8791762e8ba732bdfc2b5de9965ae4ac
-    time: 1446041951
+    md5: 4172008b92b23a307c8ef44e53979505
+    time: 1447195316
   "/about/index.html":
-    md5: a4915109aaa5aabf1b696f54db7ccbe8
-    time: 1446041951
+    md5: fabcc837ec6965116a30a0f549c1798e
+    time: 1447195316
   "/authors/index.html":
-    md5: a4915109aaa5aabf1b696f54db7ccbe8
-    time: 1446042302
+    md5: fabcc837ec6965116a30a0f549c1798e
+    time: 1447195316
   "/CNAME":
     md5: 0c61cc78c2897449d30f8ff0b4262d49
     time: 1446041951
@@ -32,11 +32,11 @@ inventory:
     md5: 9e1638d6bfc8c5150462b9884777eca9
     time: 1446042302
   "/feed.xml":
-    md5: 3bacab030afd600730cbf1b320509da8
-    time: 1446042302
+    md5: 7b27d4789bfe7ed6da045cb559e2fb6d
+    time: 1447195316
   "/css/all.css":
-    md5: 34473d55822e5149aa7079ac63ab1f2a
-    time: 1446041951
+    md5: f00cd252c86aff3f45d77908911bdb94
+    time: 1447195316
   "/images/blue.jpg":
     md5: 13b2d36ec6496fcf3f71acd9d6db6c80
     time: 1446041951
