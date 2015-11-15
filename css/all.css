@@ -86,3 +86,13 @@ body{
   background-color:lightgrey;
   margin-top:350px;
 }
+
+.bookaltcovers{
+  width:900px;
+  margin:auto;
+}
+
+.bookaltcovers img{
+  height:200px;
+  padding:20px;
+}

@@ -1,5 +1,5 @@
 ---
-time: 1447616307
+time: 1447620471
 inventory:
   "/sentient-scifi-the-culture-of-the-future/index.html":
     md5: 66a8b87440e86c7c169edcf62822b54c
@@ -8,23 +8,26 @@ inventory:
     md5: 66a8b87440e86c7c169edcf62822b54c
     time: 1447546576
   "/books/index.html":
-    md5: 9b6c65e14e2c16da060af150ae2b0ee0
-    time: 1447616303
+    md5: 7b6a17a5f6251de231428814b8d91e78
+    time: 1447620465
+  "/books/the-use-of-weapons/index.html":
+    md5: a9cce7ebc4f62bd12dbc3381880fc7e5
+    time: 1447620465
   "/books/cosmicomics/index.html":
-    md5: 6db8f1f0dc46aca46480753b82927364
-    time: 1447616303
+    md5: be0757193ee71d6bf22ffd784060ec96
+    time: 1447620465
   "/books/embassaytown/index.html":
-    md5: abe5d1382c591310fb1e1d98be56c732
-    time: 1447616303
+    md5: 469faf893a6f9a145953ee7e644acc89
+    time: 1447620465
   "/books/the-player-of-games/index.html":
-    md5: c9fe9a512f9293960373a6f8f9b87405
-    time: 1447616303
+    md5: 87129577e95783bbacdd8e24fc93e32b
+    time: 1447620465
   "/books/archive/index.html":
-    md5: e535fe9fa6f5c81a8223820a6a8eaec6
-    time: 1447616303
+    md5: b62cd5c97e9cb696f3d0bc342f939859
+    time: 1447620465
   "/books/tags/index.html":
-    md5: 308257aafc39c7a76ee6dc20e5926041
-    time: 1447616303
+    md5: 3557901ced3cf9753c264161ba10abfe
+    time: 1447620465
   "/about/index.html":
     md5: 66a8b87440e86c7c169edcf62822b54c
     time: 1447546576
@@ -35,20 +38,23 @@ inventory:
     md5: 0c61cc78c2897449d30f8ff0b4262d49
     time: 1446041951
   "/sitemap.xml":
-    md5: 95542620232babffaec0fa43d29a3821
-    time: 1447616303
+    md5: 28e3a52a3dff3e0a7a8a988318676702
+    time: 1447620465
   "/feed.xml":
-    md5: e3acba91d6cb8623ad817619f3bd6175
-    time: 1447616303
-  "/assets/18630.jpg":
+    md5: 7691c24bf8c53460f9e3e991315ae602
+    time: 1447620465
+  "/assets/theplayerofgames1.jpg":
     md5: 280749fd63c1d6c0ce73b04ec98f6e1c
-    time: 1447546576
-  "/assets/96_front.jpg":
+    time: 1447620465
+  "/assets/theplayerofgames2.jpg":
     md5: d325eea6b0a76257cec733458b6be473
-    time: 1447546576
+    time: 1447620465
+  "/assets/theplayerofgames3.jpg":
+    md5: 6809b3eff5c49fbdc7dcc53e9405fa47
+    time: 1447620465
   "/css/all.css":
-    md5: 16f463922477937788d908ef12f61a67
-    time: 1447616303
+    md5: 3a7adef96b94fd29391a78e303717dbe
+    time: 1447620465
   "/images/blue.jpg":
     md5: 13b2d36ec6496fcf3f71acd9d6db6c80
     time: 1446041951
