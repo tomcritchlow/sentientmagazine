@@ -38,6 +38,7 @@ body{
   left:-1%;
   background-size:cover;
   background-repeat:no-repeat;
+  background-position:center;
   -webkit-filter: blur(5px);
     -moz-filter: blur(5px);
     -o-filter: blur(5px);
