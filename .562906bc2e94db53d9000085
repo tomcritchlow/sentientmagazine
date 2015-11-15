@@ -1,42 +1,48 @@
 ---
-time: 1447195319
+time: 1447546580
 inventory:
   "/sentient-scifi-the-culture-of-the-future/index.html":
-    md5: fabcc837ec6965116a30a0f549c1798e
-    time: 1447195316
+    md5: 66a8b87440e86c7c169edcf62822b54c
+    time: 1447546576
   "/index.html":
-    md5: fabcc837ec6965116a30a0f549c1798e
-    time: 1447195316
+    md5: 66a8b87440e86c7c169edcf62822b54c
+    time: 1447546576
   "/books/index.html":
     md5: ee4fe4043b59d3176e108451f43d19e0
     time: 1447195316
   "/books/the-player-of-games/index.html":
-    md5: d86e5dfcbedc0925abac4e5d6b4086a2
-    time: 1447195316
+    md5: 7721f5a9374a21f8f3e4addcb4b28a3d
+    time: 1447546576
   "/books/archive/index.html":
-    md5: 4172008b92b23a307c8ef44e53979505
-    time: 1447195316
+    md5: 61594a103a462ce3a26d6a9f53bd8b43
+    time: 1447546576
   "/books/tags/index.html":
-    md5: 4172008b92b23a307c8ef44e53979505
-    time: 1447195316
+    md5: 2547f00442ee946c3d084090655a5f40
+    time: 1447546576
   "/about/index.html":
-    md5: fabcc837ec6965116a30a0f549c1798e
-    time: 1447195316
+    md5: 66a8b87440e86c7c169edcf62822b54c
+    time: 1447546576
   "/authors/index.html":
-    md5: fabcc837ec6965116a30a0f549c1798e
-    time: 1447195316
+    md5: 66a8b87440e86c7c169edcf62822b54c
+    time: 1447546576
   "/CNAME":
     md5: 0c61cc78c2897449d30f8ff0b4262d49
     time: 1446041951
   "/sitemap.xml":
-    md5: 9e1638d6bfc8c5150462b9884777eca9
-    time: 1446042302
+    md5: fb43a3d801e0d4e34740565ab8804cfb
+    time: 1447546576
   "/feed.xml":
-    md5: 7b27d4789bfe7ed6da045cb559e2fb6d
-    time: 1447195316
+    md5: a54eddf72ca07d2f04a7e579207a0565
+    time: 1447546576
+  "/assets/18630.jpg":
+    md5: 280749fd63c1d6c0ce73b04ec98f6e1c
+    time: 1447546576
+  "/assets/96_front.jpg":
+    md5: d325eea6b0a76257cec733458b6be473
+    time: 1447546576
   "/css/all.css":
-    md5: f00cd252c86aff3f45d77908911bdb94
-    time: 1447195316
+    md5: 50747935f31dc6fa6c8f042bfc8f3235
+    time: 1447546576
   "/images/blue.jpg":
     md5: 13b2d36ec6496fcf3f71acd9d6db6c80
     time: 1446041951
