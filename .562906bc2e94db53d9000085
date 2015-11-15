@@ -1,5 +1,5 @@
 ---
-time: 1447546580
+time: 1447547048
 inventory:
   "/sentient-scifi-the-culture-of-the-future/index.html":
     md5: 66a8b87440e86c7c169edcf62822b54c
@@ -11,14 +11,14 @@ inventory:
     md5: ee4fe4043b59d3176e108451f43d19e0
     time: 1447195316
   "/books/the-player-of-games/index.html":
-    md5: 7721f5a9374a21f8f3e4addcb4b28a3d
-    time: 1447546576
+    md5: 2493910d3276b551ecaaa79649994694
+    time: 1447547047
   "/books/archive/index.html":
-    md5: 61594a103a462ce3a26d6a9f53bd8b43
-    time: 1447546576
+    md5: 6cdca3b01154e8b52d3b81e40312edd1
+    time: 1447547047
   "/books/tags/index.html":
-    md5: 2547f00442ee946c3d084090655a5f40
-    time: 1447546576
+    md5: 67a037db5af0a1bc434a1913dff716fd
+    time: 1447547047
   "/about/index.html":
     md5: 66a8b87440e86c7c169edcf62822b54c
     time: 1447546576
@@ -32,8 +32,8 @@ inventory:
     md5: fb43a3d801e0d4e34740565ab8804cfb
     time: 1447546576
   "/feed.xml":
-    md5: a54eddf72ca07d2f04a7e579207a0565
-    time: 1447546576
+    md5: f17ee0a9218b8ae87148fcc7f4156940
+    time: 1447547047
   "/assets/18630.jpg":
     md5: 280749fd63c1d6c0ce73b04ec98f6e1c
     time: 1447546576
