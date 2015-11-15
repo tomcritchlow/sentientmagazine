@@ -1,39 +1,39 @@
 ---
-time: 1447620471
+time: 1447622823
 inventory:
   "/sentient-scifi-the-culture-of-the-future/index.html":
-    md5: 66a8b87440e86c7c169edcf62822b54c
-    time: 1447546576
+    md5: bb0535f2a9317fa4978fe8f7fe3edf44
+    time: 1447622818
   "/index.html":
-    md5: 66a8b87440e86c7c169edcf62822b54c
-    time: 1447546576
+    md5: bb0535f2a9317fa4978fe8f7fe3edf44
+    time: 1447622818
   "/books/index.html":
     md5: 7b6a17a5f6251de231428814b8d91e78
     time: 1447620465
   "/books/the-use-of-weapons/index.html":
-    md5: a9cce7ebc4f62bd12dbc3381880fc7e5
-    time: 1447620465
+    md5: a1003e9a41b1723af9b59fb3c38ec547
+    time: 1447622818
   "/books/cosmicomics/index.html":
-    md5: be0757193ee71d6bf22ffd784060ec96
-    time: 1447620465
+    md5: 309bd79f1e750dda4f205673cd5c8283
+    time: 1447622818
   "/books/embassaytown/index.html":
-    md5: 469faf893a6f9a145953ee7e644acc89
-    time: 1447620465
+    md5: 471d9989f34d9caea392e274e2bd8c40
+    time: 1447622818
   "/books/the-player-of-games/index.html":
-    md5: 87129577e95783bbacdd8e24fc93e32b
-    time: 1447620465
+    md5: cb3dab3fbb2c7c56725d66ec5a495975
+    time: 1447622818
   "/books/archive/index.html":
-    md5: b62cd5c97e9cb696f3d0bc342f939859
-    time: 1447620465
+    md5: 91455c1943677f8d6ed9c8437721fcab
+    time: 1447622818
   "/books/tags/index.html":
-    md5: 3557901ced3cf9753c264161ba10abfe
-    time: 1447620465
+    md5: 0692613d1709b40405bbfb1338a497e7
+    time: 1447622818
   "/about/index.html":
-    md5: 66a8b87440e86c7c169edcf62822b54c
-    time: 1447546576
+    md5: bb0535f2a9317fa4978fe8f7fe3edf44
+    time: 1447622818
   "/authors/index.html":
-    md5: 66a8b87440e86c7c169edcf62822b54c
-    time: 1447546576
+    md5: bb0535f2a9317fa4978fe8f7fe3edf44
+    time: 1447622819
   "/CNAME":
     md5: 0c61cc78c2897449d30f8ff0b4262d49
     time: 1446041951
@@ -41,8 +41,8 @@ inventory:
     md5: 28e3a52a3dff3e0a7a8a988318676702
     time: 1447620465
   "/feed.xml":
-    md5: 7691c24bf8c53460f9e3e991315ae602
-    time: 1447620465
+    md5: f9987caca35049bdb6c9faf471720192
+    time: 1447622819
   "/assets/theplayerofgames1.jpg":
     md5: 280749fd63c1d6c0ce73b04ec98f6e1c
     time: 1447620465
@@ -53,8 +53,11 @@ inventory:
     md5: 6809b3eff5c49fbdc7dcc53e9405fa47
     time: 1447620465
   "/css/all.css":
-    md5: 3a7adef96b94fd29391a78e303717dbe
-    time: 1447620465
+    md5: 20c627cda804a14b1956111699e7b8d2
+    time: 1447622819
   "/images/blue.jpg":
     md5: 13b2d36ec6496fcf3f71acd9d6db6c80
     time: 1446041951
+  "/images/sentientlogo.png":
+    md5: 4a197b24faad32da85853117c63e35c0
+    time: 1447622819
