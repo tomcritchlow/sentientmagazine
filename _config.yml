@@ -1,0 +1,8 @@
+---
+title: Sentient Magazine
+url: http://sentient.siteleaf.net
+timezone: UTC
+collections:
+  uploads:
+    title: Uploads
+    output: true
