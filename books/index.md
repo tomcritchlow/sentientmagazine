@@ -14,4 +14,4 @@ Here are my posts:
  
 {% endcapture %}
 
-{% include 'layouts/default' %}
+{% include default.html %}
