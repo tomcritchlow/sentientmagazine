@@ -1,7 +1,12 @@
+---
+title: List of Books
+date: 2015-11-30 02:44:00 Z
+---
+
 {% capture content %}
 Here are my posts:
 <br> 
-	 {% for book in site.collections['books'].documents  %}
+	 {% for book in site.books  %}
 	<a href="{{book.url}}">{{book.title}}</a> - {{book.meta.tagline}}
 	<br>
 	{% endfor %}
