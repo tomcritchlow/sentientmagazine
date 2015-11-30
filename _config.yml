@@ -3,6 +3,9 @@ title: Sentient Magazine
 url: http://sentientscifi.com
 timezone: UTC
 collections:
+  books:
+    title: Books
+    output: true
   uploads:
     title: Uploads
     output: true
