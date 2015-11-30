@@ -4,7 +4,7 @@ url: http://sentientscifi.com
 timezone: UTC
 collections:
   books:
-    title: Books
+    title: Books Collection
     output: true
   uploads:
     title: Uploads
