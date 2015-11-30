@@ -1,5 +1,5 @@
 ---
-time: 1447794718
+time: 1448849730
 inventory:
   "/sentient-scifi-the-culture-of-the-future/index.html":
     md5: bb0535f2a9317fa4978fe8f7fe3edf44
@@ -35,14 +35,14 @@ inventory:
     md5: bb0535f2a9317fa4978fe8f7fe3edf44
     time: 1447794711
   "/CNAME":
-    md5: 0c61cc78c2897449d30f8ff0b4262d49
-    time: 1447794711
+    md5: dba3a04649a0240ed6c19ebaeb1ba9f4
+    time: 1448849729
   "/sitemap.xml":
-    md5: 28e3a52a3dff3e0a7a8a988318676702
-    time: 1447794711
+    md5: e572342967955f3b9eff01593ddfba63
+    time: 1448849729
   "/feed.xml":
-    md5: beffd6efd2c6076e35abe1a9c36425a5
-    time: 1447794711
+    md5: d9452901de352e8d17a074e5369bbe7c
+    time: 1448849729
   "/assets/theplayerofgames1.jpg":
     md5: 280749fd63c1d6c0ce73b04ec98f6e1c
     time: 1447794711
