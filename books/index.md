@@ -1,4 +1,3 @@
---
 {% capture content %}
 Here are my posts:
 <br> 
