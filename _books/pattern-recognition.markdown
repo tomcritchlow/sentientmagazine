@@ -5,5 +5,6 @@ amazon_id: 0425198685
 author: William Gibson
 subtitle: Modern day futurism buried in technology, marketing and fashion
 Field name: 
+layout: books
 ---
 
