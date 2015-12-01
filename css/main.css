@@ -97,13 +97,13 @@ body{
 }
 
 .bookaltcovers{
-  width:900px;
-  margin:auto;
+  width:100%;
+  text-align:center;
 }
 
 .bookaltcovers img{
-  height:200px;
-  padding:20px;
+  height:250px;
+  padding:10px;
 }
 
 
