@@ -2,18 +2,18 @@
 layout: default
 ---
  
- <div class="bookbackground" style="background-image:url(http://images.amazon.com/images/P/{{meta.amazon_id}}.01.LZZZZZZZ.jpg)">
+ <div class="bookbackground" style="background-image:url(http://images.amazon.com/images/P/{{page.amazon_id}}.01.LZZZZZZZ.jpg)">
  </div>
  
 	<div class="bookheadercontainer">
 		<div class='bookcover'>
-					<img border="0" src="http://images.amazon.com/images/P/{{meta.amazon_id}}.01.LZZZZZZZ.jpg">		 
+					<img border="0" src="http://images.amazon.com/images/P/{{page.amazon_id}}.01.LZZZZZZZ.jpg">		 
 		</div>
 		<div class="booktitle">
 			<span class="whyread">Why you should read</span>
-			<span><strong>{{title}}</strong></span>
-			<span><strong>by {{meta.author}}</strong></span>
-			<span class="whyread">{{meta.subtitle}}</span>
+			<span><strong>{{page.title}}</strong></span>
+			<span><strong>by {{page.author}}</strong></span>
+			<span class="whyread">{{page.subtitle}}</span>
 		</div>
 	</div>
 	 
