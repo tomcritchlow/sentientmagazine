@@ -13,4 +13,4 @@ alt_images:
 layout: books
 ---
 
-Hello world?
+Thinking science fiction for minds who love playing games and solving puzzles. The book takes place in the acclaimed Culture universe that Iain M. Banks created
