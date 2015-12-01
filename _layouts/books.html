@@ -23,16 +23,8 @@ layout: default
 </div>
 
 <div class="bookaltcovers">
-	{% capture titlenospace %}
-	{{ title | remove: " " | downcase}}
-	{% endcapture %}
-	
-	{% assign num = meta.altimages %}
-	{% assign num = num | plus: 0 %}
-
-	{% for i in (1..num) %}
-		<img src="/assets/{{titlenospace}}{{i}}.jpg" />
-	
+	{% for altimage in page.alt_images %}
+		<img src="{{altimate}}" />
 	{% endfor %}
 	
 	
